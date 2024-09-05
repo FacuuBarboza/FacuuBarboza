@@ -85,3 +85,6 @@ Siempre dije mi vida va a ser sobre una pc y es el camino que sigo, la tecnologÃ
 - Instagram
 	> http://www.instragram.com/notfound.facu
 
+- LinkedIn
+	> https://www.linkedin.com/in/facu-barboza/
+
