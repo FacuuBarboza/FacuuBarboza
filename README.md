@@ -1,5 +1,5 @@
 # Facundo Barboza QA Manual 
-								Actualmente buscando trabajo.
+					Actualmente buscando trabajo.
 ##
 
 Estudiante de Ingeniería en Sistemas.
@@ -21,6 +21,14 @@ Tengo disciplina, es lo que más destaco de mi y mi super paciencia.
 Mis contras, me cuesta delegar y si delego controlo todo para ver que sea a mi manera pero no me cierro a ninguna posibilidad siempre en busca de la eficacia. También no se decir que "no", lo tomo como contra porque a veces puede llenarme de sobreresponsabilidad.
 
 ##
+### Ejemplo de trabajos
+
+[Curso CoderHouse](https://drive.google.com/drive/folders/1j0bRUd1DyV7OUssf-NT_b2FzuE_PrXxs?usp=sharing)
+
+
+
+##
+
 ### Idiomas
 
  1. **Español nativo.**
@@ -61,7 +69,6 @@ Spring boot - Principiante.
 	
 
 [*Curso de QA Testing Manual*](https://www.coderhouse.com/ar/certificados/6483bb3357bf460002228379?lang=)
-	
 
 [*EFSET English Certificate 50/100 B1 INTERMEDIATE*](https://cert.efset.org/1BGJZM)
 
@@ -87,4 +94,5 @@ Siempre dije mi vida va a ser sobre una pc y es el camino que sigo, la tecnolog�
 
 - LinkedIn
 	> https://www.linkedin.com/in/facu-barboza/
+
 
