@@ -54,15 +54,18 @@ Mis contras, me cuesta delegar y si delego controlo todo para ver que sea a mi m
 ##
 ###  Herramientas para automatización
 
- - Selenium - Intermedio.
- - Cypress - Principiante.
- - Playwright - Principiante a intermedio.
  - Postman - Intermedio.
  - JMeter - Principiante.
+ 
 ##
 ###  Frameworks
 
-Spring boot - Principiante.
+ - Spring boot - Principiante.
+ - Selenium - Intermedio.
+ - Cypress - Principiante.
+ - Playwright - Principiante a Intermedio.
+ 
+ 
 ##
 ###  Certificados
 [*Jira fundamental*](https://university.atlassian.com/student/award/88zQYB2nTNTVtU59e9C4JA4X)
