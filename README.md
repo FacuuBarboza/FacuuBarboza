@@ -39,10 +39,9 @@ Mis contras, me cuesta delegar y si delego controlo todo para ver que sea a mi m
 ##
 ### Lenguajes de programación
 
- - Java - Intermedio.
+ - Java - Intermedio a avanzado.
  - Javascript - Intermedio.
- - Python - Principiante a intermedio (lo vi un tiempo por materias pero
-   no lo estudié en profundización).
+ - Python - Intermedio
  - C - Principiante.
  - Typescript - Principiante a intermedio.
 ##
@@ -50,7 +49,7 @@ Mis contras, me cuesta delegar y si delego controlo todo para ver que sea a mi m
 
  - HTML - Intermedio a avanzado.
  - CSS - Intermedio.
- - MySQL - Principiante a intermedio.
+ - MySQL - Intermedio a avanzado.
 ##
 ###  Herramientas para automatización
 
@@ -60,8 +59,7 @@ Mis contras, me cuesta delegar y si delego controlo todo para ver que sea a mi m
 ##
 ###  Frameworks
 
- - Spring boot - Principiante.
- - Selenium - Intermedio.
+ - Spring boot - Intermedio.
  - Cypress - Principiante.
  - Playwright - Principiante a Intermedio.
  
